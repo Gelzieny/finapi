@@ -29,3 +29,38 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [ExpressJS](https://expressjs.com/pt-br/)
+
+
+## :warning: Pré requisitos
+
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+
+
+## :checkered_flag: Começando
+
+```bash
+  # Clone este repositório
+  $ git clonehttps://github.com/Gelzieny/finapi.git
+
+  # Entre na pasta
+  $ cd finapi
+
+  # Instale as dependências
+  $ yarn
+
+  # Para iniciar o projeto
+  $ yarn start
+
+  # Para iniciar como desenvolvedor
+
+  $ yarn dev
+  # O app vai inicializar em <http://localhost:3333>
+```
+
+## :memo: Licença
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+Feito com :heart: por <a href="https://github.com/Gelzieny" target="_blank">Gelzieny R. Martins</a>
+
+&#xa0;
